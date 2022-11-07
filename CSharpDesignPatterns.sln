@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Creational", "Creational", "{D86A957E-B77E-4953-BBAB-EA21188E2BC7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Behavioral", "Behavioral", "{D3072F6E-46CB-4D2D-82DC-1433E5E49ED9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Structural", "Structural", "{DF163768-D8F7-43C7-BC76-0949F57E52AE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Factory", "Factory", "{CF6AA75F-8AEB-4176-91AA-BD8F64147FEF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Builder", "Builder", "{209993F7-3CB5-4953-8F01-EAEBC5E6FD0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CF6AA75F-8AEB-4176-91AA-BD8F64147FEF} = {D86A957E-B77E-4953-BBAB-EA21188E2BC7}
+		{209993F7-3CB5-4953-8F01-EAEBC5E6FD0C} = {D86A957E-B77E-4953-BBAB-EA21188E2BC7}
+	EndGlobalSection
+EndGlobal
